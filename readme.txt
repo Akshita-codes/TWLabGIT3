@@ -7,3 +7,5 @@ After Second Commit adding this line:
 Resolved merging issues
 
 changes after git craetion
+
+NEW CHANGES
